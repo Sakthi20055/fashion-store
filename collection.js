@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 var productContainer = document.getElementById("products")
 var search = document.getElementById("search")
 var productlist = productContainer.querySelectorAll("div")
@@ -20,7 +20,7 @@ search.addEventListener("keyup",function(){
     }
     
 })
-=======
+
 var productContainer = document.getElementById("products")
 var search = document.getElementById("search")
 var productlist = productContainer.querySelectorAll("div")
@@ -42,4 +42,3 @@ search.addEventListener("keyup",function(){
     }
     
 })
->>>>>>> 1c15066 (Initial commit with contact.js top alert feature)
